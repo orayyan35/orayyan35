@@ -21,3 +21,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+
+<!-- Place your GIF here -->
+<img src="https://i.pinimg.com/originals/5f/ec/4b/5fec4be386c2e79fbaa85418c108b502.gif" alt="تعليق على الصورة" style="width:100%">
