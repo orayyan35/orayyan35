@@ -27,7 +27,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 <!-- Place your GIF here -->
-<img src="https://i.pinimg.com/originals/5f/ec/4b/5fec4be386c2e79fbaa85418c108b502.gif" alt="تعليق على الصورة" style="width:100%">
+<img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="تعليق على الصورة" style="width:100%">
 
 <p align="center">
     <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="100%" height="auto" ></a>
