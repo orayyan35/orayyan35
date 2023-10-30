@@ -28,21 +28,9 @@
 
  
  
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    body {
+ 
         background-image: url('https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
-    }
-</style>
-</head>
-<body>
-
-<!-- Your content goes here -->
-
-</body>
-</html>
+ 
