@@ -27,5 +27,15 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
-![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet)   ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)   
+![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet)   ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) 
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.25&theme=radical">
+</p>
+
+
+<p align="center">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
+</p>
  
