@@ -2,10 +2,14 @@
 
 ### Hi there, I'm Omar Bakr! 👋
 
-- 📊 Data Analyst | Aspiring Data Scientist
-- 💡 Specializing in data analysis using Pandas, NumPy, TensorFlow, and Matplotlib
-- 🌱 Experienced in sourcing and analyzing data from various platforms, including Kaggle
-- 🎯 Passionate about leveraging data to uncover insights and drive impactful decisions
+- 🎂 Born on 6th September 2001
+- 🏡 Living in Nablus, Palestine 🇵🇸
+- 💻 Data Analyst | Aspiring Data Scientist
+- 🌟 Specializing in data analysis using Pandas, NumPy, TensorFlow, and Matplotlib
+- 🌐 Experienced in sourcing and analyzing data from various platforms, including Kaggle and Google
+- 🚀 Passionate about leveraging data to uncover insights and drive impactful decisions
+- 🔥 Excited to explore machine learning, deep learning, natural language processing, and K-nearest neighbors
+- 💡 Working on projects involving weather-based conditions and car price prediction models
 
 ### 📫 How to reach me:
 
