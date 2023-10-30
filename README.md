@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet)   ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.25&theme=radical">
 </p>
 
 
