@@ -26,16 +26,5 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
-<!-- Place your GIF here -->
-![Animated Background](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
-
-<p align="center">
-    <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="100%" height="auto" ></a>
-</p>
-
-<div align="center">
-
-![Cristianmarints's github stats](https://github-readme-stats.vercel.app/api?username=cristianmarint&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
-
-⭐️ From [cristianmarint](https://github.com/cristianmarint)
-</div>
+ 
+ 
