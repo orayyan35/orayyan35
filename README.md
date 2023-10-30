@@ -1,13 +1,12 @@
 [![Header](https://github.com/omarbaker123/omarbaker123/raw/master/profile.gif)](https://www.adamalston.com/)
 
-### Hi there, I'm Omar Bakr! 👋
+### Hi there, I'm Omar Baker!
 
 - 🎂 Born on 6th September 2001
 - 🏡 Living in Nablus, Palestine 🇵🇸
-- 💻 Data Analyst | Aspiring Data Scientist
+- 💻 math🔢 |Data Analyst 📈 | Python 🐍 | Machine Learning
 - 🌟 Specializing in data analysis using Pandas, NumPy, TensorFlow, and Matplotlib
-- 🌐 Experienced in sourcing and analyzing data from various platforms, including Kaggle and Google
-- 🚀 Passionate about leveraging data to uncover insights and drive impactful decisions
+ - 🚀 Passionate about leveraging data to uncover insights and drive impactful decisions
 - 🔥 Excited to explore machine learning, deep learning, natural language processing, and K-nearest neighbors
 - 💡 Working on projects involving weather-based conditions and car price prediction models
 
