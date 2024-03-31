@@ -32,12 +32,15 @@ Artificial Intelligence intern 👨🏽‍💼.
 <p align="center">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="Ai" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="DL" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="ML" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="DS" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="R" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/NLP.svg" alt="NLP" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aa" style="vertical-align:top; margin:4px">
 
 </p>
