@@ -16,8 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **OMAR BAKER**, a **Kaggle Competitions Expert** (Ranked Top 1% Worldwide 🌍) and an **AI Engineering student** 🚀 from Tunisia. 
-Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **OMAR BAKER**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
