@@ -26,7 +26,8 @@ You can find me on social media platforms:
   <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
   
 </p>
-🇵🇸📍
+
+
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515">
 </p>
