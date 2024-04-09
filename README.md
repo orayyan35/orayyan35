@@ -27,7 +27,6 @@ You can find me on social media platforms:
   
 </p>
 
-
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515">
 </p>
