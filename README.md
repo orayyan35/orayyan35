@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farah saleh</h1>
 <h3 align="center">I have experience in machine learning, deep learning, data analysis, and natural language processing (NLP), as well as in web development. I have worked on many projects and now have considerable experience in handling data.</h3>
+
 <p align="center">
-  <img src="[[https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F21824398-Lottie-Animation-Woman-working-on-laptop&psig=AOvVaw3NRYu5OeKCToT39R6_fuuQ&ust=1720741881358000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCxopfVnYcDFQAAAAAdAAAAABAJ)](https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif)" width="50%" align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZ0MG54Z2tlbThjbzV1ZHJ2YThncWpyOGRvb3hkeWd3bnIzcW96OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="50%" align="right">
+</p>
+
+
 </p>
 - 🔭 I’m currently working on [AdvancedTextClassification](https://github.com/FarahSaleh121/Advanced-Text-Classification)
 
