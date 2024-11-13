@@ -31,4 +31,4 @@ You can find me on social media platforms:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515">
 </p>
 <center><img src='https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611704aa2ca4e403287801480a6c753abf45f3e6242&rid=giphy.gif&ct=s' 
-     height=30px width=160px /></center>
+     height=50% width=50% /></center>
